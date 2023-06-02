@@ -1,4 +1,4 @@
-# My Superstore Sales Analysis & Data Visualization Project
+# Superstore Sales Analysis & Data Visualization Project
 I analyzed a real-world Superstore dataset to gain insights and solve business problems. The dataset provided information about sales in a Superstore, allowing me to evaluate the data, identify patterns, and extract meaningful insights. Throughout the project, I performed data pre-processing to ensure data quality, handled null values, removed duplicates, transformed data types, and validated the data for further analysis.
 
 ## Key Objectives
